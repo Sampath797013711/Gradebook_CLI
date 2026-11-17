@@ -1,0 +1,131 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Aarav Sharma"
+        },
+        {
+            "id": 2,
+            "name": "Maya Iyer"
+        },
+        {
+            "id": 3,
+            "name": "Rohan Das"
+        },
+        {
+            "id": 4,
+            "name": "Ram"
+        },
+        {
+            "id": 5,
+            "name": "Ram"
+        },
+        {
+            "id": 6,
+            "name": "Arjun"
+        },
+        {
+            "id": 7,
+            "name": "Priya"
+        },
+        {
+            "id": 8,
+            "name": "Rahul"
+        }
+    ],
+    "courses": [
+        {
+            "code": "CS101",
+            "title": "Introduction to Computer Science"
+        },
+        {
+            "code": "EE201",
+            "title": "Circuit Analysis"
+        },
+        {
+            "code": "EE101",
+            "title": "Basic Electronics"
+        },
+        {
+            "code": "MA101",
+            "title": "Engineering Mathematics"
+        },
+        {
+            "code": "CS102",
+            "title": "Data Structures"
+        }
+    ],
+    "enrollments": [
+        {
+            "student_id": 1,
+            "course_code": "CS101",
+            "grades": [
+                92.0,
+                88.0
+            ]
+        },
+        {
+            "student_id": 1,
+            "course_code": "EE201",
+            "grades": [
+                85.0,
+                90.0
+            ]
+        },
+        {
+            "student_id": 2,
+            "course_code": "CS101",
+            "grades": [
+                95.0,
+                91.0
+            ]
+        },
+        {
+            "student_id": 2,
+            "course_code": "EE201",
+            "grades": [
+                89.0,
+                93.0
+            ]
+        },
+        {
+            "student_id": 3,
+            "course_code": "CS101",
+            "grades": [
+                78.0,
+                82.0,
+                92.0
+            ]
+        },
+        {
+            "student_id": 3,
+            "course_code": "EE201",
+            "grades": [
+                86.0,
+                80.0
+            ]
+        },
+        {
+            "student_id": 2,
+            "course_code": "EE101",
+            "grades": [
+                85.0,
+                90.0
+            ]
+        },
+        {
+            "student_id": 2,
+            "course_code": "MA101",
+            "grades": [
+                78.0
+            ]
+        },
+        {
+            "student_id": 4,
+            "course_code": "CS102",
+            "grades": [
+                88.0
+            ]
+        }
+    ]
+}
